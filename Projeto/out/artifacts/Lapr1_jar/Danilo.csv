@@ -1,0 +1,166 @@
+Data,NovosCasosRegistados
+
+  Infetados com Covid 
+2021-10-01,696 Casos registados,decrescimo de -1068583 casos registados em relação ao dia anterior
+2021-10-02,690 Casos registados,decrescimo de -6 casos registados em relação ao dia anterior
+2021-10-03,449 Casos registados,decrescimo de -241 casos registados em relação ao dia anterior
+2021-10-04,193 Casos registados,decrescimo de -256 casos registados em relação ao dia anterior
+2021-10-05,730 Casos registados,acrescimo de 537 casos registados em relação ao dia anterior
+2021-10-06,500 Casos registados,decrescimo de -230 casos registados em relação ao dia anterior
+2021-10-07,731 Casos registados,acrescimo de 231 casos registados em relação ao dia anterior
+2021-10-08,841 Casos registados,acrescimo de 110 casos registados em relação ao dia anterior
+2021-10-09,704 Casos registados,decrescimo de -137 casos registados em relação ao dia anterior
+2021-10-10,499 Casos registados,decrescimo de -205 casos registados em relação ao dia anterior
+2021-10-11,327 Casos registados,decrescimo de -172 casos registados em relação ao dia anterior
+2021-10-12,719 Casos registados,acrescimo de 392 casos registados em relação ao dia anterior
+2021-10-13,828 Casos registados,acrescimo de 109 casos registados em relação ao dia anterior
+2021-10-14,777 Casos registados,decrescimo de -51 casos registados em relação ao dia anterior
+2021-10-15,766 Casos registados,decrescimo de -11 casos registados em relação ao dia anterior
+2021-10-16,612 Casos registados,decrescimo de -154 casos registados em relação ao dia anterior
+2021-10-17,465 Casos registados,decrescimo de -147 casos registados em relação ao dia anterior
+2021-10-18,291 Casos registados,decrescimo de -174 casos registados em relação ao dia anterior
+2021-10-19,832 Casos registados,acrescimo de 541 casos registados em relação ao dia anterior
+2021-10-20,927 Casos registados,acrescimo de 95 casos registados em relação ao dia anterior
+==========================================================================
+Data,NovosCasosRegistados
+
+ Hospitalizados com Covid 
+2021-10-01,357 Casos registados,decrescimo de -735092 casos registados em relação ao dia anterior
+2021-10-02,337 Casos registados,decrescimo de -20 casos registados em relação ao dia anterior
+2021-10-03,342 Casos registados,acrescimo de 5 casos registados em relação ao dia anterior
+2021-10-04,351 Casos registados,acrescimo de 9 casos registados em relação ao dia anterior
+2021-10-05,346 Casos registados,decrescimo de -5 casos registados em relação ao dia anterior
+2021-10-06,349 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-07,353 Casos registados,acrescimo de 4 casos registados em relação ao dia anterior
+2021-10-08,332 Casos registados,decrescimo de -21 casos registados em relação ao dia anterior
+2021-10-09,321 Casos registados,decrescimo de -11 casos registados em relação ao dia anterior
+2021-10-10,334 Casos registados,acrescimo de 13 casos registados em relação ao dia anterior
+2021-10-11,356 Casos registados,acrescimo de 22 casos registados em relação ao dia anterior
+2021-10-12,345 Casos registados,decrescimo de -11 casos registados em relação ao dia anterior
+2021-10-13,335 Casos registados,decrescimo de -10 casos registados em relação ao dia anterior
+2021-10-14,321 Casos registados,decrescimo de -14 casos registados em relação ao dia anterior
+2021-10-15,301 Casos registados,decrescimo de -20 casos registados em relação ao dia anterior
+2021-10-16,285 Casos registados,decrescimo de -16 casos registados em relação ao dia anterior
+2021-10-17,295 Casos registados,acrescimo de 10 casos registados em relação ao dia anterior
+2021-10-18,312 Casos registados,acrescimo de 17 casos registados em relação ao dia anterior
+2021-10-19,299 Casos registados,decrescimo de -13 casos registados em relação ao dia anterior
+2021-10-20,286 Casos registados,decrescimo de -13 casos registados em relação ao dia anterior
+==========================================================================
+Data,NovosCasosRegistados
+
+ Internados em UCI com Covid 
+2021-10-01,67 Casos registados,decrescimo de -120915 casos registados em relação ao dia anterior
+2021-10-02,65 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+2021-10-03,69 Casos registados,acrescimo de 4 casos registados em relação ao dia anterior
+2021-10-04,68 Casos registados,decrescimo de -1 casos registados em relação ao dia anterior
+2021-10-05,62 Casos registados,decrescimo de -6 casos registados em relação ao dia anterior
+2021-10-06,60 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+2021-10-07,57 Casos registados,decrescimo de -3 casos registados em relação ao dia anterior
+2021-10-08,52 Casos registados,decrescimo de -5 casos registados em relação ao dia anterior
+2021-10-09,55 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-10,55 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-11,58 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-12,56 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+2021-10-13,54 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+2021-10-14,56 Casos registados,acrescimo de 2 casos registados em relação ao dia anterior
+2021-10-15,55 Casos registados,decrescimo de -1 casos registados em relação ao dia anterior
+2021-10-16,59 Casos registados,acrescimo de 4 casos registados em relação ao dia anterior
+2021-10-17,61 Casos registados,acrescimo de 2 casos registados em relação ao dia anterior
+2021-10-18,62 Casos registados,acrescimo de 1 casos registados em relação ao dia anterior
+2021-10-19,60 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+2021-10-20,58 Casos registados,decrescimo de -2 casos registados em relação ao dia anterior
+==========================================================================
+Data,NovosCasosRegistados
+
+ Mortes covid 
+2021-10-01,4 Casos registados,decrescimo de -17971 casos registados em relação ao dia anterior
+2021-10-02,7 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-03,7 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-04,7 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-05,4 Casos registados,decrescimo de -3 casos registados em relação ao dia anterior
+2021-10-06,4 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-07,11 Casos registados,acrescimo de 7 casos registados em relação ao dia anterior
+2021-10-08,8 Casos registados,decrescimo de -3 casos registados em relação ao dia anterior
+2021-10-09,7 Casos registados,decrescimo de -1 casos registados em relação ao dia anterior
+2021-10-10,7 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-11,7 Casos registados,o numero de novos casos é o mesmo do dia anterior 
+2021-10-12,8 Casos registados,acrescimo de 1 casos registados em relação ao dia anterior
+2021-10-13,9 Casos registados,acrescimo de 1 casos registados em relação ao dia anterior
+2021-10-14,6 Casos registados,decrescimo de -3 casos registados em relação ao dia anterior
+2021-10-15,7 Casos registados,acrescimo de 1 casos registados em relação ao dia anterior
+2021-10-16,10 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-17,9 Casos registados,decrescimo de -1 casos registados em relação ao dia anterior
+2021-10-18,3 Casos registados,decrescimo de -6 casos registados em relação ao dia anterior
+2021-10-19,6 Casos registados,acrescimo de 3 casos registados em relação ao dia anterior
+2021-10-20,3 Casos registados,decrescimo de -3 casos registados em relação ao dia anterior
+==========================================================================
+NumeroDaSemana,DataInicioSemana,DataFimDaSemana,NovosDadosRegistadosNaSemana
+  Infetados com Covid 
+Semana 1,2021-10-04,2021-10-10,registou 4198
+Semana 2,2021-10-11,2021-10-17,registou 4494
+Semana 3,2021-10-18,2021-10-24,registou 5332
+Semana 4,2021-10-25,2021-10-31,registou 5513
+Semana 5,2021-11-01,2021-11-07,registou 6906
+Semana 6,2021-11-08,2021-11-14,registou 9931
+Semana 7,2021-11-15,2021-11-21,registou 14795
+Semana 8,2021-11-22,2021-11-28,registou 20424
+Semana 9,2021-11-29,2021-12-05,registou 24080
+==========================================================================
+NumeroDaSemana,DataInicioSemana,DataFimDaSemana,NovosDadosRegistadosNaSemana
+ Hospitalizados com Covid 
+Semana 1,2021-10-04,2021-10-10,registou 2386
+Semana 2,2021-10-11,2021-10-17,registou 2238
+Semana 3,2021-10-18,2021-10-24,registou 2012
+Semana 4,2021-10-25,2021-10-31,registou 2209
+Semana 5,2021-11-01,2021-11-07,registou 2482
+Semana 6,2021-11-08,2021-11-14,registou 2784
+Semana 7,2021-11-15,2021-11-21,registou 3662
+Semana 8,2021-11-22,2021-11-28,registou 4826
+Semana 9,2021-11-29,2021-12-05,registou 6091
+==========================================================================
+NumeroDaSemana,DataInicioSemana,DataFimDaSemana,NovosDadosRegistadosNaSemana
+ Mortes covid 
+Semana 1,2021-10-04,2021-10-10,registou 48
+Semana 2,2021-10-11,2021-10-17,registou 56
+Semana 3,2021-10-18,2021-10-24,registou 36
+Semana 4,2021-10-25,2021-10-31,registou 24
+Semana 5,2021-11-01,2021-11-07,registou 46
+Semana 6,2021-11-08,2021-11-14,registou 54
+Semana 7,2021-11-15,2021-11-21,registou 64
+Semana 8,2021-11-22,2021-11-28,registou 96
+Semana 9,2021-11-29,2021-12-05,registou 120
+==========================================================================
+PrimeiraData,TotalCasosPrimeiraData,SegundaData,TotalCasosSegundaData,Comparação
+
+ Hospitalizados com Covid 
+Média casos totais primeiro intervalo: 342.2000,Média casos totais segundo intervalo: 61.4706,Média diferença casos totais: -28.7000
+Desvio padrão casos totais primeiro intervalo: 10.5906,Desvio padrão casos totais segundo intervalo: 124.9085,Desvio padrão diferença de casos totais: 23.3454
+03-10-2021,342,25-10-2021,335,acrescimo 7
+04-10-2021,351,26-10-2021,321,acrescimo 30
+05-10-2021,346,27-10-2021,301,acrescimo 45
+06-10-2021,349,28-10-2021,285,acrescimo 64
+07-10-2021,353,29-10-2021,295,acrescimo 58
+08-10-2021,332,30-10-2021,312,acrescimo 20
+09-10-2021,321,31-10-2021,299,acrescimo 22
+10-10-2021,334,01-11-2021,286,acrescimo 48
+==========================================================================
+PrimeiraData,TotalCasosPrimeiraData,SegundaData,TotalCasosSegundaData,Comparação
+
+ Mortes covid 
+Média casos totais primeiro intervalo: 6.6000,Média casos totais segundo intervalo: 1.3333,Média diferença casos totais: 0.2000
+Desvio padrão casos totais primeiro intervalo: 2.0591,Desvio padrão casos totais segundo intervalo: 2.8811,Desvio padrão diferença de casos totais: 3.2496
+03-10-2021,7,25-10-2021,9,decrescimo 2
+04-10-2021,7,26-10-2021,6,acrescimo 1
+05-10-2021,4,27-10-2021,7,decrescimo 3
+06-10-2021,4,28-10-2021,10,decrescimo 6
+07-10-2021,11,29-10-2021,9,acrescimo 2
+08-10-2021,8,30-10-2021,3,acrescimo 5
+09-10-2021,7,31-10-2021,6,acrescimo 1
+10-10-2021,7,01-11-2021,3,acrescimo 4
+==========================================================================
+DiaPrevisao,EstimadoNaoInfetados,EstimadoInfetados,EstimadoHospitalizados,EstimadoInternardosUCI,EstimadoMortes
+20-11-2022,9758704.3,137471.4,70090.9,22238.8,160363.6
+==========================================================================
+DiasMorteNaoInfetados,DiaMorteInfetados,DiaMorteHospitalizados,DiaMorteInternadosUCI
+16809.2,14809.2,8865.3,8345.1
+==========================================================================
